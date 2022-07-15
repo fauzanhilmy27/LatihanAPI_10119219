@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LatihanAPI_10119219</string>
+    <string-array name="Naruto">
+        <item>Hatake Kakashi</item>
+        <item>Rock Lee</item>
+        <item>Gaara</item>
+        <item>Naruto Uzumaki</item>
+        <item>Obito Uchiha</item>
+
+
+    </string-array>
+</resources>
